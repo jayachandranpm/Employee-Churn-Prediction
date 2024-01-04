@@ -1,15 +1,15 @@
 Certainly! Here's the entire content in a single markdown format:
 
 ```markdown
-# Employee Churn Prediction
+**Employee Churn Prediction
 
 This repository contains the code and resources for an Employee Churn Prediction Dashboard using Streamlit. The project aims to predict whether an employee is likely to leave or stay based on various input features.
 
-## Usage
+##Usage
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/Employee-Churn-Prediction.git
+   git clone [https://github.com/your-username/Employee-Churn-Prediction.git](https://github.com/jayachandranpm/Employee-Churn-Prediction.git)
    cd Employee-Churn-Prediction
    ```
 
@@ -43,17 +43,11 @@ cd Employee-Churn-Prediction
 pip install -r requirements.txt
 ```
 
-## Contributing
 
-Feel free to contribute to the project by opening issues or submitting pull requests. Follow the [Contributing Guidelines](CONTRIBUTING.md) for more details.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Credits
 
-- Project created by [Your Name]
+- Project created by Jayachandran P M
 ```
 
 You can copy and paste this content into your README.md file. Make sure to replace placeholders like `your-username` and `[Your Name]` with the appropriate values.
