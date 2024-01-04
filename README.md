@@ -24,6 +24,9 @@ This repository contains the code and resources for an Employee Churn Prediction
 4. **Access the app:**
    Open your web browser and go to [http://localhost:8501](http://localhost:8501) to interact with the Employee Churn Prediction Dashboard.
 
+   **Live Demo**:
+The live web version of the Employee Churn Prediction Dashboard is hosted online and can be accessed here [https://employee-churn-prediction.streamlit.app/](https://employee-churn-prediction.streamlit.app/).
+
 ## Project Structure
 
 - **app.py**: Streamlit app code.
