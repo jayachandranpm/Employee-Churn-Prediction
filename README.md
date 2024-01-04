@@ -1,6 +1,4 @@
-Certainly! Here's the entire content in a single markdown format:
 
-```markdown
 **Employee Churn Prediction
 
 This repository contains the code and resources for an Employee Churn Prediction Dashboard using Streamlit. The project aims to predict whether an employee is likely to leave or stay based on various input features.
