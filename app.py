@@ -84,6 +84,7 @@ def main():
         # Employee Churn by Department
         st.subheader("Employee Churn by Department")
         churn_by_department = data.groupby('Department')['left'].mean().sort_values(ascending=False)
+        st.set_option('deprecation.showPyplotGlobalUse', False)
         st.bar_chart(churn_by_department)
 
         # Word Cloud of Departments
